@@ -1,0 +1,43 @@
+body {
+    background-color: aqua;
+}
+
+div#header {
+    text-align: center;
+}
+
+div {
+    background-color: rgba(0,0,0,0.5);
+    width: 80%;
+    margin: auto;
+    padding: 5px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: black;
+}
+  
+.topnav a {
+    float: left;
+    color: lightcoral;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-style: italic;
+}
+  
+.topnav a:hover {
+    background-color: yellow;
+    color: blue;
+}
+  
+.topnav a.active {
+    background-color: yellowgreen;
+    color: white;
+}
+
+img#player {
+    width: 70%;
+}

@@ -1,0 +1,24 @@
+#contentImg {
+    width: 100%;
+}
+
+#headerImg {
+    width: 100%;
+    height: 300px;
+}
+
+img#banner {
+    width: 100%;
+}
+
+img#cart {
+    width: 10%;
+}
+
+img#flag {
+    width: 25px;
+}
+
+img#tourLogo {
+    width: 100px;
+}
